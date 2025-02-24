@@ -9,4 +9,3 @@
 
 - Power consumption prediction
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e2ee13ec-626c-4eae-8ffa-235230d10e07/ec21af9a-53f6-4f29-8ea1-edf984677b80/image.png)
