@@ -7,5 +7,7 @@
 
     - The Random Forest model accurately predicted power consumption across most building types, effectively reflecting key factors such as seasonality and time of day. However, for certain outlier data points (e.g., holidays and specific building types), additional feature engineering or model improvement is needed. These results are expected to provide practical support for power usage management and energy optimization strategies.
 
-- Power consumption prediction
+## 📊 Prediction Results
+Here is the predicted power consumption:
 
+![Prediction Result](https://github.com/wltjs26/Power-consumption-forecast/blob/main/prediction_result.png)
